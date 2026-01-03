@@ -2,10 +2,10 @@
 # Ubung: Variablen
 # Name='Abdulloh'
 # Age=22
-# stadt='Samarkand'
-# print('Mein Name ist' , Name)
-# print('Ich bin ', Age )
-# print('Ich komme aus', stadt)
+stadt='Samarkand'
+print('Mein Name ist' , Name)
+print('Ich bin ', Age )
+print('Ich komme aus', stadt)
 
 # Ubung:String 
 
